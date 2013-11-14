@@ -1,0 +1,12 @@
+header {
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    background: #900;
+    padding: 0.2em;
+}
+
+summary {
+	padding: 0.1em;
+	font-size: 1.2em;
+}

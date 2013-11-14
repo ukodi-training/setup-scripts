@@ -1,0 +1,12 @@
+.part_suspended {
+    color: white;
+    background-color: orange;
+}
+.minor_delays {
+    color: white;
+    background-color: orange;
+}
+.good_service {
+    color: white;
+    background-color: green;
+}
