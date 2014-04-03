@@ -1,0 +1,655 @@
+{
+    "name": "projects",
+    "children": [
+        {
+            "name": "Department of Agriculture",
+            "children": [
+                {
+                    "name": "Annual Agency Operations.",
+                    "value": 15.297
+                },
+                {
+                    "name": "Program Areas will migrate their data over to the agencys virtual servers and shut down their current server.",
+                    "value": 0.179
+                },
+                {
+                    "name": "Programs Areas will replace 1/3 of their computers which have an expired warranty.",
+                    "value": 1.46
+                },
+                {
+                    "name": "Production Support including Analysis, Software Fixes, System Software Upgrades, Help Desk.",
+                    "value": 1.8205
+                },
+                {
+                    "name": "Production Support including Analysis, Software Fixes, System Software Upgrades, Help Desk. (1)",
+                    "value": 1.713
+                }
+            ]
+        },
+        {
+            "name": "Department of Commerce",
+            "children": [
+                {
+                    "name": "Parallel test components of new BP system.",
+                    "value": 1.24
+                },
+                {
+                    "name": "Initiate real-time parallel testing of integrated system for producing monthly GDP and personal income estimates.",
+                    "value": 0.413
+                },
+                {
+                    "name": "Produce timely, relevant, and accurate economic accounts data in an objective and cost-effective manner.",
+                    "value": 9.696
+                },
+                {
+                    "name": "Maintain the integrity of BEA Statistics by completing independent testing of security controls.",
+                    "value": 0.59
+                },
+                {
+                    "name": "Produce timely, relevant, and accurate economic accounts data in an objective and cost-effective manner. (1)",
+                    "value": 9.76
+                }
+            ]
+        },
+        {
+            "name": "Department of Defense",
+            "children": [
+                {
+                    "name": "International Statistical Classification of Diseases and Related Health Problems 10th Revision (ICD-10) codes.",
+                    "value": 5.468
+                },
+                {
+                    "name": "Integrate WII Warrior initiatives (Medical Evaluation Board Information Technology Initiative (MEB ITI) / Neuro-Cognitive Assessment Tool (NCAT) & Health Artifact and Image Management Solution (HAIMS)) and Enterprise Blood Management System (EBMS)  into AHLTA.",
+                    "value": 9.764
+                },
+                {
+                    "name": "GCSS-MC:  The Global Combat Support System - Marine Corps (GCSS-MC) is a portfolio of systems that supports logistics elements of command and control, joint logistics interoperability, and secure access to and visibility of logistics data. GCSS-MC is based upon the Marine Corps Logistics Operational Architecture and logistics business process reengineering initiatives. GCSS-MC is part of a joint GCSS effort, managed by the Joint Staff J-4, aimed at improving logistics capability and filling in deficiencies in the accuracy and timeliness of logistics data. GCSS-MC/LCM:  GCSS-MC Logistics Chain Management (LCM) is a program within GCSS-MC. It is comprised of Increments 1, 2, and 3.  GCSS-MC LCM Increment 1 is the first increment of GCSS-MC.  It provides initial capabilities for GCSS-MC.  The system provides Combat Service Support functionality: Supply, Maintenance, Task Organization, and Request Tracking in a shared data environment in support of deployed operations. Specifically the system centralizes logistics information for access by multiple authorized users (closing a significant warfighting gap), complies with the J-4 GCSS Mission Area Interface Control Document that establishes a DoD Family of Systems for logistics information visibility and decision support, and satisfies initial Marine Corps requirements for meeting Combatant Commander 129/57 Data Elements that provide asset visibility data to Combatant and Joint Task Force Commanders.   GCSS-MC/LCM Increment 1:  GCSS-MC LCM Increment 1 is the first increment of GCSS-MC/LCM.  It is a separate acquisition program with its own milestone events.  It is based on the implementation of Oracle e-Business Suite 11i as the core software package.  Increment 1 provides the foundation for all future Marine Corps logistics systems modernization.  Increments 2 and 3 are not reported here because they have not officially been approved through the new Business Case Lifecycle (BCL) process.",
+                    "value": 1022
+                },
+                {
+                    "name": "Full accounting for USTRANSCOM, Material Sealift Command, Surface Deployment and Distribution Command, Air Mobility Command, Air Combat Command, United States Air Forces Europe, Pacific Air Force, Air Force Special Operations Command, Air Education and Training Command, Air Force Reserve Command, Air National Guard, and Air Force Global Strike Command. Provide Design/Development/Test of the system.",
+                    "value": 367.2
+                },
+                {
+                    "name": "Full accounting for Air Force Material Command and Air Force Space Command.  Provide Design/Development/Test of the system.",
+                    "value": 127.2
+                }
+            ]
+        },
+        {
+            "name": "Department of Health and Human Services",
+            "children": [
+                {
+                    "name": "The Electronic Document Exchange project addresses the development of a secure transport mechanism for states to electronically exchange Child Support Enforcement (CSE) documents like Affidavits of Paternity, Birth Certificates and Court Orders.  The project supports the Office of Child Support Enforcement's (OCSE's) vision of developing an integrated technical infrastructure that leverages new technologies and approaches to reduce program cost by improving electronic exchanges. Pilot is expected in 2012.",
+                    "value": 0.441
+                },
+                {
+                    "name": "The purpose of this project is to update and expand Passport Denial functionality.           The scope of the enhancements includes: * Allowing state users to view Passport Denial information when a case is closed * Developing a page that allows administrators to select success stories by date range for saving to a local file * Removing Passport Denial type from dropdown list in Comments selection page * Correcting the sorting of Department of State (DoS) details for combined cases.",
+                    "value": 0.043
+                },
+                {
+                    "name": "This project, currently in the planning phase, will expand the FPLS Portal Debt Inquiry function to provide an alternative method of receiving files for insurance matching partners and implement application enhancements identified by the pilot users. The cost, schedule and milestone estimates provided are a rough order of magnitude estimate determined at the post-award Integrated Baseline Review for this contract, and are subject to change. A detailed project plan, schedule, and cost estimate will be presented to the FPLS Strategic Planning and Oversight Board prior to commencement of these activities, at which point, additional details will be provided here.",
+                    "value": 0.11
+                },
+                {
+                    "name": "This project, currently in the planning phase, will enhance the FPLS E-Employer application to provide the capability for authorized state case workers to access employer address information from the National Directory of New Hires (NDNH).  It will include a search by employer name. This project is also dependent on the completion of the NDNH Employer Address to Relational Database Project. The cost, schedule and milestone estimates provided are a rough order of magnitude estimate determined at the post-award Integrated Baseline Review for this contract, and are subject to change.  A detailed project plan, schedule, and cost estimate will be presented to the FPLS Strategic Planning and Oversight Board prior to commencement of these activities, at which point, additional details will be provided here.",
+                    "value": 0.258
+                },
+                {
+                    "name": "This project, currently in the planning phase, will modify the IRG data structures to allow citizens easier access to state child support agency contact information from the OCSE website.  The project is dependent on the overall OCSE website redesign project (not part of the FPLS investment), and high level requirements are currently being analyzed.  The cost, schedule and milestone estimates provided are a rough order of magnitude estimate determined at the post-award Integrated Baseline Review for this contract, and are subject to change. A detailed project plan, schedule, and cost estimate will be presented to the FPLS Strategic Planning and Oversight Board prior to commencement of these activities, at which point, additional details will be provided here.",
+                    "value": 0.314
+                }
+            ]
+        },
+        {
+            "name": "Department of the Interior",
+            "children": [
+                {
+                    "name": "Prepare LOMAS for replacement by GLAS.",
+                    "value": 0.021
+                },
+                {
+                    "name": "TAAMS Acquisition and Disposal Module with Fee to Trust Tracking System.",
+                    "value": 0.2001
+                },
+                {
+                    "name": "Upgrade application - bug fixes etc.",
+                    "value": 0.087
+                },
+                {
+                    "name": "ePlanning version 2.0.3 is the last phase of ePlanning development, and is Phase 3 of ePlanning version 2. The functions included in this final phase are: Intra-Agency Comment Periods, National Environmental Policy Act (NEPA) Screening, Date Last Changed, Project Archiving, Content Reuse, Publish ePlanning Document to Digital Media, Records management and Retention, Geospatial Mapping to the Approved Resource Management Plan (ARMP).",
+                    "value": 1.061
+                },
+                {
+                    "name": "This RMSS REMM O&M project includes scheduled refreshing/updating the technology and component to improve efficiency and enhance performance. Implement new technologies to facilitate consolidation efforts with the Department where identified. Perform scheduled/unscheduled maintenance activities. Mitigate identified weaknesses and vulnerabilities.",
+                    "value": 2
+                }
+            ]
+        },
+        {
+            "name": "Department of Justice",
+            "children": [
+                {
+                    "name": "The Department of Justice (DOJ) has initiated an effort to implement a unified financial management system (UFMS) that will improve the existing and future financial management and procurement operations across DOJ.",
+                    "value": 851.145712
+                },
+                {
+                    "name": "The implementation of UFMS-S at the FBI will consist of business transformation, testing, and implementation.",
+                    "value": 48.421
+                },
+                {
+                    "name": "The implementation of UFMS at the U.S. Marshals Service will follow a two-phase approach consisting of Planning and Requirements followed by Configuration and Implementation..",
+                    "value": 17.661015
+                },
+                {
+                    "name": "The upgrade of BOP and USMS comprises the work to move from the UFMS 1.1 Shared Acquisitions to the UFMS 2 shared environment utilizing similar acquisition functionality.",
+                    "value": 0.747266
+                },
+                {
+                    "name": "The implementation of UFMS at the AFP will follow a two-part approach consisting of Planning and Requirements followed by Configuration and Implementation.",
+                    "value": 5.902
+                }
+            ]
+        },
+        {
+            "name": "Department of Labor",
+            "children": [
+                {
+                    "name": "The FCCS will replace OFIS with a modern COTS case management system, improving and automating business processes, workflows, and enhancing OFCCP s ability to fulfill its federal contract compliance mission in a more efficient and timely fashion.  The Deployment #1 will provide all base functionality necessary to replace the current OFIS system and provide essential enhancements to meet the business needs.",
+                    "value": 6.402
+                },
+                {
+                    "name": "Develop software to deploy the PPI Web Repricing module and complete the Architectural Elaboration milestone for the IPS Initiation and IPP Repricing subsystems.",
+                    "value": 0.674
+                },
+                {
+                    "name": "Develop software to complete the Architectural Elaboration milestone for the IPP Estimation subsystem.",
+                    "value": 1.029
+                },
+                {
+                    "name": "Upgrade PPI Repricing and Estimation subsystems for the timely and accurate release of PPI data.",
+                    "value": 1.572
+                },
+                {
+                    "name": "Perform application maintenance to support new PPI program outputs.",
+                    "value": 0.568
+                }
+            ]
+        },
+        {
+            "name": "Department of State",
+            "children": [
+                {
+                    "name": "Build, test and pilot ILMS module to support motorpool operations world-wide with one standardized web-based solution to manage the Department's global fleet including vehicle registration, employee management, dispatch, maintenance, fuel, and reporting and querying.",
+                    "value": 3.289
+                },
+                {
+                    "name": "Significant enhancements to ILMS modules, including external integration with DoS and other federal systems.",
+                    "value": 17.617
+                },
+                {
+                    "name": "Build, test and pilot ILMS module for all Expendables orders. The module replaces the current WebPass Expendables module and builds required integration with Ariba for all Expendables orders.",
+                    "value": 1.45
+                },
+                {
+                    "name": "ILMS Program Management Office (PMO) activities to support the integrated deployment of ILMS to new users at overseas Posts and deployment of new functionality including FMIS, Expendables and Ariba Contracts.",
+                    "value": 16.066
+                },
+                {
+                    "name": "This project provides support to IRM for their implementation of a streamlined inventory method for identifying and tracking enterprise IT assets across the Department's network in direct support of IT consolidation with no manual intervention. Activities include on-going reconciliation and data-cleanup activities, integration support, and on-going knowledge transfer.",
+                    "value": 2.112
+                }
+            ]
+        },
+        {
+            "name": "Department of the Treasury",
+            "children": [
+                {
+                    "name": "AMS delivers improved customer support by leveraging legacy systems to Customer Service Representatives (CSRs), Tax Examiners (TEs)and others with the tools to access information quickly and accurately in response to complex customer inquiries.",
+                    "value": 20.87
+                },
+                {
+                    "name": "Consistent with FMS and Treasury missions, ASAP is a recipient-initiated electronic payment and information system used to make: federal grant payments, reimbursements to financial agents, and EBT disbursements to states.  ASAP is executing its selected alternative (AA/CBA 3/2010) migrating the mainframe backend on the FRIT platform to TWAI distributed platform and implementing mandated enterprise architecture (EA) enhancements and infrastructure upgrades.ASAP is the Department of Treasury's sole solution for recipient-initiated payments and is not planned for replacement.",
+                    "value": 73.582
+                },
+                {
+                    "name": "The BSA IT Modernization project will establish an enterprise-wide information management and analysis framework that will equip law enforcement and financial industry regulators with better decision-making abilities and increased value of BSA information through enhanced data integrity and analytical tools.  This project will also enable easier compliance and streamline BSA information capture for FinCENs financial community through the enhancement of e-filing and e-forms systems for filers, standardization of financial data with existing financial community standards, and more timely and useful feedback on BSA information filings and the use of BSA information.",
+                    "value": 41.737
+                },
+                {
+                    "name": "This project consolidates data sources such as HR Connect, USAccess, and TEDS associated with getting a PIV card in order to streamline the process to get the cards faster and also to terminate separated cardholder's records faster realizing both cost savings and security benefits.",
+                    "value": 12
+                },
+                {
+                    "name": "Physical Access roll out project includes upgrading building access systems, centralized provisioning automated capabilities, business rules for provisioning internal and external users and upgrading legacy systems.",
+                    "value": 66.263938
+                }
+            ]
+        },
+        {
+            "name": "Social Security Administration",
+            "children": [
+                {
+                    "name": "Transition and Development.",
+                    "value": 46.36025
+                },
+                {
+                    "name": "Contractor and Government Budgeted (SITAR) Resources  as well as Engineering Support Services.",
+                    "value": 2.82
+                },
+                {
+                    "name": "Automated Applications for SSA National 800 Number.",
+                    "value": 18.4
+                },
+                {
+                    "name": "Agent/Supervisor Desktop as well as Screen Pop.",
+                    "value": 6
+                },
+                {
+                    "name": "Reporting system providing cradle to grave information for reviewing and improving performance.",
+                    "value": 8.75
+                }
+            ]
+        },
+        {
+            "name": "Department of Education",
+            "children": [
+                {
+                    "name": "Requirements, Development, Training and Implementation.",
+                    "value": 4.528542
+                },
+                {
+                    "name": "Complete Iteration 1 and Iteration 2 for IPM.",
+                    "value": 8.862
+                },
+                {
+                    "name": "Development and maintenance of BFELoB IT tools.",
+                    "value": 1.145
+                },
+                {
+                    "name": "Upgrade Oracle Database from version 10.2.0.4 to version 11g to maintain currency.",
+                    "value": 0.5
+                },
+                {
+                    "name": "Development and maintenance of data collection software to facilitate 2011-12 surveys.",
+                    "value": 1.34141
+                }
+            ]
+        },
+        {
+            "name": "Department of Energy",
+            "children": [
+                {
+                    "name": "Deployment the STRIPES/PRISM software to the Western Area Power Administration.  And integrate STRIPES into their existing accounting system.",
+                    "value": 0.006
+                },
+                {
+                    "name": "Identify, evaulate, and streamline current labor intesive Help Desk / User / STRIPES Team processes.",
+                    "value": 0.0035
+                },
+                {
+                    "name": "Integration 3 under the PAMS Project Plan:  Create a partial requisition in STRIPES and transmit meta data back to PAMS.",
+                    "value": 0.004
+                },
+                {
+                    "name": "Evaluate, and analyze the Compusearch PRISM version 7.x.  Develop project plan.",
+                    "value": 0.008
+                },
+                {
+                    "name": "Continuation of the PeopleSoft release 9.1 software implementation in CHRIS, retaining critical DOE mods and functionality. Funding for this project is part of the O&M budget for CHRIS.",
+                    "value": 0.6286
+                }
+            ]
+        },
+        {
+            "name": "Environmental Protection Agency",
+            "children": [
+                {
+                    "name": "Assess and evaluate CDX strategic design and operations.",
+                    "value": 1.72
+                },
+                {
+                    "name": "Develop new CDX data exchanges and implement improvements/enhancements.",
+                    "value": 6.69
+                },
+                {
+                    "name": "PM Plan, SLCM Plans and Artifacts, Budget Management, Risk Management, Schedule Management, Configuration Management, In Process Reviews, PM Meetings, Requirements Management.",
+                    "value": 0.2218
+                },
+                {
+                    "name": "Status Briefings, OMB Reporting, EPA Reporting.",
+                    "value": 0.1546
+                },
+                {
+                    "name": "Interoperability Meetings, Backend Attribute Exchange (BAE) Requirements.",
+                    "value": 0.1546
+                }
+            ]
+        },
+        {
+            "name": "Department of Transportation",
+            "children": [
+                {
+                    "name": "Implement ADS-B/multilateration surveillance systems at 4 Colorado mountain airports - APB MILESTONE.",
+                    "value": 9.109222
+                },
+                {
+                    "name": "Enable three-mile separation standards in order to move airplanes more efficiently through the NAS.",
+                    "value": 3.489873
+                },
+                {
+                    "name": "The Automation Upgrades project includes ERAM, ATOP and STARS.",
+                    "value": 80.567407
+                },
+                {
+                    "name": "Integration of aircraft position data from ADS-B transmissions into ATC Surface Advisory Services.",
+                    "value": 142.149761
+                },
+                {
+                    "name": "Display of along-track guidance, control and indications, and alerts.",
+                    "value": 104.430457
+                }
+            ]
+        },
+        {
+            "name": "General Services Administration",
+            "children": [
+                {
+                    "name": "The FDCCI is the federal government's primary source for collaboration across agency lines regarding data center consolidation requirements, sustainable data center facility management, and other topics necessary to facilitate this aggressive and necessary effort. The FDCCI is responsible to accepting and analyzing agency data center consolidation reports, as well as facilitating, enabling, and ensuring the closures of agency data centers en route to a 800 total closures by 2015 governmentwide.",
+                    "value": 0.732
+                },
+                {
+                    "name": "The FCCI's primary objective is to facilitate the secure adoption of cloud computing across government. The Initiative has a proven track record of producing tangible, measurable results that lead to the cheaper, better, faster, and greener deployment of cloud solutions via a consensus-based governance approach that takes into account the requirements of all federal agencies.",
+                    "value": 0.492
+                },
+                {
+                    "name": "FedRAMP is a shared security assessment and continuous monitoring service for Cloud Systems - designed to gain efficiencies by leveraging standardization, best practices and automation across government.",
+                    "value": 1.218
+                },
+                {
+                    "name": "Strategy, planning, requirements, architecture, performance management, financial management, schedule management.",
+                    "value": 1
+                },
+                {
+                    "name": "Interactive catalog/shared dataset hosting, DMS, website.",
+                    "value": 1.93
+                }
+            ]
+        },
+        {
+            "name": "Department of Homeland Security",
+            "children": [
+                {
+                    "name": "Develop the HSIN 3.0 system utilzing Agile development.",
+                    "value": 22.342
+                },
+                {
+                    "name": "Consolidation of the I&A HS SLIC portals from an outside hosted vendor to HSIN.",
+                    "value": 2.5
+                },
+                {
+                    "name": "Establishing a Two factor Authentication for HSIN Legacy for acctive users.",
+                    "value": 0.313
+                },
+                {
+                    "name": "Platform deployment: Complete build & deployment of dedicated COP infrastructure to DHS Data Center 2.",
+                    "value": 0.5
+                },
+                {
+                    "name": "Advanced Functionality Capabilities: Incident Management, Request For Information, Reporting, Auto-Ingest, Email Triage and visualization.",
+                    "value": 2.4
+                }
+            ]
+        },
+        {
+            "name": "Department of Housing and Urban Development",
+            "children": [
+                {
+                    "name": "The HIFMIP initiative will result in A-100 HUD Integrated core financial system (ICFS); ICFS manage the flow of financial information across HUD's information systems, maintain compliance with JFMIP requirements, and supports the HUD's Enterprise Architecture. September 2010 this project entered into the Design/Exec Phase. With an 18 mth base period, HIFMIP will: Replace the functionality of HUDCAPS and PAS with ICFS. Migrate FHAs current system to the HIFMIP Shared Service Provider.",
+                    "value": 40.7
+                },
+                {
+                    "name": "The FHA Transformation Initiative has procured a modern federal financial services platform, composed of commercially available products and services, for all of FHA's insurance programs - Single Family Housing, Multifamily Housing, and the Insured Health Care portfolio. The program will implement a case management business model that addresses the loan-lifecycle (e.g., initial data submission, endorsement, servicing) and risk analytics platform to better understand dynamic market trend.",
+                    "value": 51.5
+                },
+                {
+                    "name": "Implementation of an industry specific, COTS automated underwriting solution that leverages the FHA Federal Financial Services Platform (FFSP).  It will enable HUD to manage the upfront risks of the MFH underwriting process effectively; adapt to changing market conditions with flexibility and agility; and effectively monitor and enforce lender performance.",
+                    "value": 7
+                },
+                {
+                    "name": "The HEARTH Act directs HUD to undertake a new approach to how HUD provides assistance, housing, and supportive services to homeless populations. A new, integrated approach encourages leveraging across regional geographies, grantees, and grant programs. HEARTH enhancements across several HUD grant management systems will improve customer service and grantee results and improve efficiency through new capabilities. Each system represents a segment of HUD's end-to-end grants management solution.",
+                    "value": 25.6
+                },
+                {
+                    "name": "Automate the paper-based Environmental review process for HUD funded construction. The current paper process is cumbersome to grantees and HUD staff and lacks accurate tracking of review status, number of reviews completed, and the environmental impact of HUD grantees. This project also enhances financial controls and reports for the HOME program, to lower risk of funding recapture due to idiosyncratic system rules, improve program compliance, and close several IG Audit findings.",
+                    "value": 3
+                }
+            ]
+        },
+        {
+            "name": "National Aeronautics and Space Administration",
+            "children": [
+                {
+                    "name": "Integration with the Security Operations Center.",
+                    "value": 0.25
+                },
+                {
+                    "name": "Complete Hardware Refresh with a more virtualized environment.",
+                    "value": 1.5
+                },
+                {
+                    "name": "Upgrade all COTS products to the current version.",
+                    "value": 0.5
+                },
+                {
+                    "name": "Project item to closeout FY11 O&M milestones currently reporting on the IT Dashboard.",
+                    "value": 13
+                },
+                {
+                    "name": "Science Operations reported on the IT Dashboard. Included to allow closeout of FY11 per OMB guidance.",
+                    "value": 116.733
+                }
+            ]
+        },
+        {
+            "name": "Office of Personnel Management",
+            "children": [
+                {
+                    "name": "These dollars were planned to cover costs incurred as a result of potential changes to the investment requirements.  Please note that while these costs are included, actual costs may be within a +/- 15 variance as anticipated for efforts of this type.",
+                    "value": 0.2
+                },
+                {
+                    "name": "These costs ensure that all facets of operations and maintenance activities of CBIS are performed. A non-exhaustive list of examples of the type of work to be performed under this task area include: Operational support, Software support, Network/hardware support, Technical support, Help desk assistance, IT service mgmt, server mgmt, software license mgmt,  Client/server operations, training, and logistics support.",
+                    "value": 4.29
+                },
+                {
+                    "name": "These tasks were mandated by the investment's Executive Steering Committee to address key task and priorities noted within the investment's revised vision to achieve 90- 95% functionality of the CBIS Phase 1 solution.  Currently, the agency has claimed success of the investment in achieving 75% functionality of the documented requirements.",
+                    "value": 0.865
+                },
+                {
+                    "name": "These dollars have been allocated for the completion of all planned FY11 tasks and milestones.",
+                    "value": 13.4
+                },
+                {
+                    "name": "The HR LOB drives improved HR solutions and services through the establishment of SSCs, service delivery models and strategies for agencies. HR LOB supports agencies in implementing strategic and consultative HR practices through migration of selected HR functions to SSCs consistent with the business model determined by the agency. HR LOB's role in defining the business model and functions while holding SSCs accountable for meeting agencies' needs is essential to improved services.",
+                    "value": 60.662272
+                }
+            ]
+        },
+        {
+            "name": "Small Business Administration",
+            "children": [
+                {
+                    "name": "This project includes office space expenses for the LMAS-IIPs.",
+                    "value": 0.034
+                },
+                {
+                    "name": "This project will include documenting the loan accounting environment after the mainframe is retired.",
+                    "value": 1.2237
+                },
+                {
+                    "name": "Implement those enhancements identified from the analysis efforts conducted as part of  Root Cause Analysis Project.",
+                    "value": 3.6407
+                },
+                {
+                    "name": "The Incremental Migration of User Interfaces project involves migrating from the mainframe to existing SBA web applications.",
+                    "value": 1.6193
+                },
+                {
+                    "name": "Perform root cause analyses for known issues and identify potential solutions. Also, analyze desired enhancements and assess means for achieving those deemed feasible, including the possible acquisition of new systems and services to further enhance the Agency's financial management systems and controls. Develop supporting cost and schedule estimates as well as required business cases.",
+                    "value": 0.7257
+                }
+            ]
+        },
+        {
+            "name": "Department of Veterans Affairs",
+            "children": [
+                {
+                    "name": "Veterans On Line Application (VONAPP) II is a new Web service that will reside on the eBenefits portal as a portlet. Veterans will launch the portlet to submit electronic claims for Veterans Benefits Administration (VBA) benefits. VONAPP II funding will cover DME and sustainment of the new portlet and sustainment of VONAPP Legacy until it can be retired.",
+                    "value": 30.49
+                },
+                {
+                    "name": "Voice Access Modernization (VAM) will expand and enhance the features of the newly deployed architecture located at the Health Resource Center (HRC). This project will incorporate system components required to produce desired objectives in a manner that requires minimal maintenance while remaining flexible enough to accommodate frequent changes in routing, delivery, integration, and service expansion.",
+                    "value": 47.256105
+                },
+                {
+                    "name": "The E-Benefits Portal project for Veterans Relationship Management (VRM) is a joint effort by the Department of Defense (DoD) and Department of Veterans Affairs (VA) to provide Veterans, service members, and their dependents and caregivers with a single Web-based touch point between VA and DoD, providing information about benefits using self-service transactional and interactive capabilities.",
+                    "value": 67.026
+                },
+                {
+                    "name": "To expand/enhance features of the current telephony architecture located at the Health Resource Center, utilizing the existing Public Branch Exchange (PBX) telephony switch, and incorporate system components required to produce desired objectives in a manner that accommodates minimal maintenance and human effort while remaining flexible enough to accommodate frequent change in routing, delivery, integration, and service expansion/extension related to management of inbound voice and data contact.",
+                    "value": 3.582984
+                },
+                {
+                    "name": "Provides enterprise level identity management services allowing us to uniquely identify individuals across Department of Veterans Affairs (VA) and determine in which VA systems the individual is known and their associated identifier in those systems.",
+                    "value": 114.572699
+                }
+            ]
+        },
+        {
+            "name": "U.S. Agency for International Development",
+            "children": [
+                {
+                    "name": "This project upgrades the PRISM 6.5 COTS Acquisition and Assistance software platform that GLAAS is built upon to version 7.1. PRISM 7.1 introduces a new application framework and redesigned user interface. GLAAS is currently live and the PRISM 6.5 software version will remain supported by the vendor, Compusearch Software Systems, through the end of CY2012.",
+                    "value": 6.836
+                },
+                {
+                    "name": "This project reflects the upgrade and scaling of the interim GLAAS disaster recovery capabilities to the CIO's Enterprise solution at the consolidated disaster recovery site. It is a continuation of the investment beginning in FY12. The FY13 funding at $452k represents 30% of the total GLAAS Enterprise Disaster Recovery effort at $1.52M.",
+                    "value": 1.522
+                },
+                {
+                    "name": "Identify authoritative data sets.",
+                    "value": 0.025
+                },
+                {
+                    "name": "Select authoritative data sets.",
+                    "value": 0.02
+                },
+                {
+                    "name": "Develop migration selection criteria.",
+                    "value": 0.036
+                }
+            ]
+        },
+        {
+            "name": "U.S. Army Corps of Engineers",
+            "children": [
+                {
+                    "name": "Integration of additional corporate data.",
+                    "value": 4
+                },
+                {
+                    "name": "ENGLink v1.0/2.0 O & M.",
+                    "value": 12.047
+                },
+                {
+                    "name": "Merge duplicate data entry systems into one online application.",
+                    "value": 0.605
+                },
+                {
+                    "name": "Improve the collection capabilities of the navigation module and upgrade the system by automating the remaining input processes.",
+                    "value": 0.65
+                },
+                {
+                    "name": "Milestone 40299 - Testing and Deployment of all changes made to REMIS, including O&M and enhancements.",
+                    "value": 0.7
+                }
+            ]
+        },
+        {
+            "name": "National Archives and Records Administration",
+            "children": [
+                {
+                    "name": "Improve ARCIS customer and Employee Portals.",
+                    "value": 0.35
+                },
+                {
+                    "name": "Make information available to ARCIS users.",
+                    "value": 0.237
+                },
+                {
+                    "name": "Work towards decommissioning the VA Registry applications.",
+                    "value": 0.85
+                },
+                {
+                    "name": "Upgrade MPLS and TIC Bandwidth based on increased demand.",
+                    "value": 0.122
+                },
+                {
+                    "name": "Certify NARA FISMA reported systems.",
+                    "value": 0.991
+                }
+            ]
+        },
+        {
+            "name": "National Science Foundation",
+            "children": [
+                {
+                    "name": "Migration of services to cloud.",
+                    "value": 1.027
+                },
+                {
+                    "name": "Activities related to the implementation of government-wide initiatives such as IPV6 and TIC.",
+                    "value": 1.14
+                },
+                {
+                    "name": "Activities in support of the Federal Data Center Consolidation Initiative (FDCCI).",
+                    "value": 2.222
+                },
+                {
+                    "name": "Routine technology upgrades to hardware and software platforms.",
+                    "value": 2.788
+                },
+                {
+                    "name": "Planning for the move of the NSF facility.",
+                    "value": 0.265
+                }
+            ]
+        },
+        {
+            "name": "Nuclear Regulatory Commission",
+            "children": [
+                {
+                    "name": "Maintenance activities to support telephone circuits and equipment during an emergency to communicate with all commercial nuclear power plants (NPPs) and major fuel cycle facilities.",
+                    "value": 0.32
+                },
+                {
+                    "name": "Maintenance activities to support a secret level video conferencing capability to perform classified face to face coordination with other government agencies.",
+                    "value": 0.6
+                },
+                {
+                    "name": "Maintenance activities to support NRC licensees to transmit reactor data points to the HOC for independent safety analysis.",
+                    "value": 0.84
+                },
+                {
+                    "name": "Maintenance activities to support NRC Headquarters Operations Center technical capabilities that includes a range of services for data, display and voice.",
+                    "value": 0.952
+                },
+                {
+                    "name": "Service Pack upgrade 11.1.2.1, FAIMIS to BFS Integration and establishment of Salaries and Benefit Application.",
+                    "value": 0.181
+                }
+            ]
+        }
+    ]
+}
