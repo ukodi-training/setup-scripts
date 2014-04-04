@@ -9,7 +9,7 @@ if(parent.document.getElementsByTagName("iframe")[0]) {
 var margin = {top: 20, right: 0, bottom: 0, left: 0},
     width = 820,
     height = 700 - margin.top - margin.bottom,
-    formatNumber = d3.format(",d"),
+    formatNumber = d3.format(".2s"),
     transitioning;
 
 /* create x and y scales */
@@ -149,7 +149,7 @@ function display(d) {
 				return d.name + " (" + formatNumber(d.size) + ")"; 
 			} 
 			if (d.value > 0 && typeof(d.value) !== "undefined") {
-				return d.name + " (" + d.value + ")"; 
+				return d.name + " (" + formatNumber(d.value) + ")"; 
 			}
 			return d.name;
 		})
